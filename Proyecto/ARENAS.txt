@@ -1,0 +1,18 @@
+
+--------ARENAS----------
+
+Nombre, tipo, ranking_minimo.
+
+
+Estadio_duende, estadio, 0.
+Foso_de_huesos, foso, 4.
+Coliseo_barbaro, estadio, 8.
+Fuerte_del_pekka, fuerte, 11.
+Valle_de_hechizos, valle, 14.
+Taller_del_constructor, taller, 17.
+Arena_real, arena, 20.
+Pico_helado, monte, 23.
+Arena_selvatica, arena, 26.
+Montepuerco, monte, 30.
+Electrovalle, valle, 34.
+Arena_legendaria, arena, 38.

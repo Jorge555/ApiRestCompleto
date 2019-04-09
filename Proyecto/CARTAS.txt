@@ -1,0 +1,93 @@
+---TIPOS CARTAS---
+
+NOMBRE--ATAQUE--DEFENSA
+
+-------------COMUN------------
+
+Esqueleto, 91, 91.
+Espiritu_de_hielo, 91, 190.
+Duende, 99, 167.
+Descarga, 159, 0.
+Murcielago, 67, 67.
+Espiritu_de_fuego, 178, 91.
+Bola_de_nieve, 159, 0.
+Arquera, 89, 252.
+Flechas, 243, 0.
+Caballero, 167, 1350.
+Esbirro, 84, 190.
+Bombardero, 271, 311.
+Canion, 127, 742.
+Mortero, 220, 1219.
+Torre_tesla, 190, 954.
+Barbaro, 159, 636.
+Gigante_noble, 254, 2544.
+Barbaro_elite, 254, 970.
+
+
+
+-----------ESPECIAL-----------
+
+Golem_de_hielo, 70, 994.
+Megaesbirro, 258, 695.
+Lanzadardos, 100, 216.
+Bola_de_fuego, 572, 0.
+Mini_pekka, 598, 1129.
+Mosquetera, 176, 598.
+Montapuercos, 264, 1408.
+Valquiria, 221, 1657.
+Maquina_voladora, 142, 510.
+Torre_bombardera, 184, 1126.
+Electrocutadores, 70, 440.
+Gigante, 211, 3275.
+Torre_infernal, 35, 1452.
+Mago, 232, 598.
+Cerdo_real, 56, 695.
+Cohete, 1232, 0.
+Trio_mosqueteras, 176, 598.
+
+
+
+-----------EPICA--------------
+
+Ejercito_esqueleto, 67, 67.
+Guardias, 0, 90.
+Tornado, 140, 0.
+Bebe_dragon, 133, 1064.
+Cazador, 691, 696.
+Hielo, 101, 0.
+Veneno, 600, 0.
+Principe_oscuro, 206, 1030.
+Principe, 325, 1615.
+Bruja, 69, 787.
+Globo_bombastico, 798, 1396.
+Canion_con_ruedas, 203, 731.
+Lanzarrocas, 239, 1596.
+Verdugo, 281, 1010.
+Dragon_electrico, 159, 790.
+Esqueleto_gigante, 172, 2793.
+Rayo, 877, 0.
+Ballesta, 26, 1330.
+Duende_gigante, 146, 2540.
+Pekka, 678, 3458.
+Golem, 259, 4256.
+
+
+
+----------LEGENDARIA----------
+
+Tronco, 240, 0.
+Minero, 160, 1000.
+Princesa, 140, 216.
+Fantasma_real, 216, 1000.
+Mago_de_hielo, 75, 590.
+Bandida, 160, 780.
+Bruja_nocturna, 260, 750.
+Dragon_infernal_real, 30, 1070.
+Leniador, 200, 1060.
+Arquero_magico, 96, 490.
+Mago_electrico, 192, 590.
+Montacarneros, 220, 1461.
+Chispitas, 1100, 1200.
+Sabueso_de_lava, 45, 3150.
+Megacaballero, 222, 3300.
+

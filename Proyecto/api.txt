@@ -1,0 +1,40 @@
+https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
+
+http://georgepavlides.info/json-data-on-the-android-mobile-with-app-inventor-2/
+
+http://kio4.com/appinventor/75cargar_json.htm
+
+
+
+http://localhost:1080/api/category/read.php
+
+http://localhost:1080/api/product/read_paging.php
+
+http://localhost:1080/api/product/search.php?s=shirt
+
+http://localhost:1080/api/product/delete.php
+
+http://localhost:1080/api/product/update.php
+
+http://localhost:1080/api/product/read_one.php?id=999
+
+http://localhost:1080/api/product/read_one.php?id=60
+
+http://localhost:1080/api/product/create.php
+
+{
+    "CAR_NOMBRE" : "Amazing Pillow 2.0",
+    "CAR_ATAQUE" : "199",
+    "CAR_DEFENSA" : "The best pillow for amazing programmers.",
+    "TCAR_ID" : ""
+}
+
+
+
+http://localhost:1080/api/product/read.php
+
+
+
+
+
+192.168.1.10:1080
